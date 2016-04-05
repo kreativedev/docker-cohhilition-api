@@ -1,1 +1,1 @@
-# docker-cohhilition-api
+Docker build for an Ubuntu 14.04 container setup for The Cohhilition API
